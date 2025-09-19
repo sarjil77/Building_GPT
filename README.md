@@ -244,12 +244,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **Vaswani et al.** for the original Transformer architecture
 - **Shakespeare** for providing the training data 📚
 
-## 📞 Contact
-
-- **GitHub**: [@yourusername](https://github.com/yourusername)
-- **Email**: your.email@example.com
-- **LinkedIn**: [Your LinkedIn](https://linkedin.com/in/yourprofile)
-
 ---
 
 ⭐ If you found this project helpful, please give it a star!
