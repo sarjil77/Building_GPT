@@ -244,6 +244,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **Vaswani et al.** for the original Transformer architecture
 - **Shakespeare** for providing the training data 📚
 
----
-
 ⭐ If you found this project helpful, please give it a star!
